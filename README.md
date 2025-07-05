@@ -1,5 +1,3 @@
-# Titanic-Survival-Prediction-Using-LIME
-
 # 🚢 Titanic Survival Prediction Using LIME 🧬
 
 Welcome to the **Titanic Survival Prediction Using LIME** project!  
